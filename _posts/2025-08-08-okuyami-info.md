@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "お悔やみ情報 (2025年08月08日)"
-date: 2025-08-08 09:17:01 +0900
+date: 2025-08-08 09:21:35 +0900
 categories: [obituary, news]
 tags: [お悔やみ, 訃報, 山梨]
 author: "お悔やみ情報bot"
@@ -149,7 +149,7 @@ author: "お悔やみ情報bot"
 <details>
 <summary>詳細情報を表示</summary>
 
-<div style="overflow-x: auto; max-width: 100%;">
+<div class="responsive-table" markdown="1" style="overflow-x: auto; max-width: 100%;">
 
 | 地域 | 市町村 | 氏名 | ふりがな | 住所 | 死亡日 | 年齢 | 職歴・属性 | 喪主 | 関係者 | 通夜 | 告別式 | 会場 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -177,7 +177,7 @@ author: "お悔やみ情報bot"
 
 ### 中央市
 
-<div style="overflow-x: auto; max-width: 100%;">
+<div class="responsive-table" markdown="1" style="overflow-x: auto; max-width: 100%;">
 
 | 地域 | 市町村 | 氏名 | ふりがな | 住所 | 死亡日 | 年齢 | 職歴・属性 | 喪主 | 関係者 | 通夜 | 告別式 | 会場 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -188,7 +188,7 @@ author: "お悔やみ情報bot"
 
 ### 甲　府
 
-<div style="overflow-x: auto; max-width: 100%;">
+<div class="responsive-table" markdown="1" style="overflow-x: auto; max-width: 100%;">
 
 | 地域 | 市町村 | 氏名 | ふりがな | 住所 | 死亡日 | 年齢 | 職歴・属性 | 喪主 | 関係者 | 通夜 | 告別式 | 会場 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -202,7 +202,7 @@ author: "お悔やみ情報bot"
 
 ### 韮崎市
 
-<div style="overflow-x: auto; max-width: 100%;">
+<div class="responsive-table" markdown="1" style="overflow-x: auto; max-width: 100%;">
 
 | 地域 | 市町村 | 氏名 | ふりがな | 住所 | 死亡日 | 年齢 | 職歴・属性 | 喪主 | 関係者 | 通夜 | 告別式 | 会場 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -213,7 +213,7 @@ author: "お悔やみ情報bot"
 
 ### 北杜市
 
-<div style="overflow-x: auto; max-width: 100%;">
+<div class="responsive-table" markdown="1" style="overflow-x: auto; max-width: 100%;">
 
 | 地域 | 市町村 | 氏名 | ふりがな | 住所 | 死亡日 | 年齢 | 職歴・属性 | 喪主 | 関係者 | 通夜 | 告別式 | 会場 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -224,7 +224,7 @@ author: "お悔やみ情報bot"
 
 ### 甲斐市
 
-<div style="overflow-x: auto; max-width: 100%;">
+<div class="responsive-table" markdown="1" style="overflow-x: auto; max-width: 100%;">
 
 | 地域 | 市町村 | 氏名 | ふりがな | 住所 | 死亡日 | 年齢 | 職歴・属性 | 喪主 | 関係者 | 通夜 | 告別式 | 会場 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -235,7 +235,7 @@ author: "お悔やみ情報bot"
 
 ### 山梨市
 
-<div style="overflow-x: auto; max-width: 100%;">
+<div class="responsive-table" markdown="1" style="overflow-x: auto; max-width: 100%;">
 
 | 地域 | 市町村 | 氏名 | ふりがな | 住所 | 死亡日 | 年齢 | 職歴・属性 | 喪主 | 関係者 | 通夜 | 告別式 | 会場 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -248,7 +248,7 @@ author: "お悔やみ情報bot"
 
 ### 富士吉田市
 
-<div style="overflow-x: auto; max-width: 100%;">
+<div class="responsive-table" markdown="1" style="overflow-x: auto; max-width: 100%;">
 
 | 地域 | 市町村 | 氏名 | ふりがな | 住所 | 死亡日 | 年齢 | 職歴・属性 | 喪主 | 関係者 | 通夜 | 告別式 | 会場 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -260,7 +260,7 @@ author: "お悔やみ情報bot"
 
 ### 都留市
 
-<div style="overflow-x: auto; max-width: 100%;">
+<div class="responsive-table" markdown="1" style="overflow-x: auto; max-width: 100%;">
 
 | 地域 | 市町村 | 氏名 | ふりがな | 住所 | 死亡日 | 年齢 | 職歴・属性 | 喪主 | 関係者 | 通夜 | 告別式 | 会場 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -271,7 +271,7 @@ author: "お悔やみ情報bot"
 
 ### 上野原市
 
-<div style="overflow-x: auto; max-width: 100%;">
+<div class="responsive-table" markdown="1" style="overflow-x: auto; max-width: 100%;">
 
 | 地域 | 市町村 | 氏名 | ふりがな | 住所 | 死亡日 | 年齢 | 職歴・属性 | 喪主 | 関係者 | 通夜 | 告別式 | 会場 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -281,4 +281,4 @@ author: "お悔やみ情報bot"
 
 
 ---
-*最終更新: 2025年08月08日 09:16:18*
+*最終更新: 2025年08月08日 09:21:24*
