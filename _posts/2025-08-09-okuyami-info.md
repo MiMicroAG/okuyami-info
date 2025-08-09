@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "お悔やみ情報 (2025年08月09日)"
-date: 2025-08-09 21:42:26 +0900
+date: 2025-08-09 21:42:37 +0900
 categories: [obituary, news]
 tags: [お悔やみ, 訃報, 山梨]
 author: "お悔やみ情報bot"
@@ -32,98 +32,116 @@ author: "お悔やみ情報bot"
 </thead>
 <tbody>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">佐藤征子</td>
-<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">86</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">中央市西新居</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">島崎和美</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">54</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">中央市西花輪</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">赤池節子</td>
-<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">96</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府伊勢４の４２の１６</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">外壁工事Ｉ代表赤池直樹さん<br>八ケ岳信玄原土地代表取締役小林祐三さんの母</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">寺田恒造</td>
-<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">103</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府屋形２</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長女で元タウン企画勤務すみ子（すみこ）さん<br>長女で元タウン企画勤務すみ子（すみこ）</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">清水永三</td>
-<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">97</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府国母２の９の３４</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長女久美（くみ）さん<br>長女久美（くみ）</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">内藤喜美子</td>
-<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">84</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府大手２</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">田辺英子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">77</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲斐市大下条８２３の２</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">刀正利</td>
-<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">80</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">韮崎市藤井町北下条</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">ラ・ポンム勤務横内由佳さん<br>農業久保川由美さんの父</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">桜田花子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">88</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">南アルプス市十五所１３５の１</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">山梨トヨタ自動車増穂店勤務内田千秋さんの義母<br>元かんだ工芸特殊家具勤務内田昌子さんの母</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">伏見保</td>
-<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">98</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">北杜市白州町白須</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">元山梨中央銀行勤務伏見久子さん<br>元敷島みなみ児童館勤務平出妙子さんの父</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">神宮寺広美</td>
-<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">68</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲斐市竜地３１００の２２</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長女の夫で大田光学研究所勤務井上大佑（いのうえ・だいすけ）さん<br>長女で同店勤務井上由菜（いのうえ・ゆな）さん<br>長女の夫で大田光学研究所勤務井上大佑（いのうえ・だいすけ）<br>長女で同店勤務井上由菜（いのうえ・ゆな）</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">津野田利夫</td>
-<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">94</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">山梨市牧丘町杣口１８９０の６</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">赤羽光伸</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">70</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">南アルプス市飯野</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">七沢保</td>
-<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">78</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">山梨市小原東８２４の３</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長女かおりさん<br>妻光子（みつこ）さん<br>妻光子（みつこ）</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">古屋ナミ子</td>
-<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">97</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">山梨市牧丘町北原２５０５</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">峡東測量設計代表取締役社長古屋文仁さん<br>山梨学院ハイスクールスポーツセンター勤務古屋勇紀さんの母<br>長男で同社会長正美（まさみ）さん<br>長男で同社会長正美（まさみ）</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">羽田修</td>
-<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">62</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">富士吉田市向原１の２２の２２</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">ＣＡＴＶ富士五湖勤務武藤卓也さんの義父</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">宮下英代</td>
-<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">93</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">富士吉田市松山１の６の６</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">山中湖村議高村理三郎さんの義母</td>
-</tr>
-<tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">郷田実</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">一瀬正栄</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">87</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">都留市四日市場８１２の２</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">中日本エクストール横浜勤務斧田みどりさん<br>ソリューション・ラボ・ジャパン勤務郷田宏志さんの父<br>妻洋子（ようこ）さん<br>妻洋子（ようこ）</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">南アルプス市東南湖</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長男武人（たけひと）さん<br>妻栄（さかえ）さん<br>長男武人（たけひと）<br>妻栄（さかえ）</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">渡辺伖代</td>
-<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">79</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">上野原市四方津</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">金丸松代</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">96</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">南アルプス市曲輪田</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長女町子（まちこ）さん<br>長女町子（まちこ）</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">関谷千代子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">88</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">南アルプス市藤田</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">村松博己</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">65</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">南アルプス市東南湖１７３</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">妻紀代美（きよみ）さん<br>妻紀代美（きよみ）</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">望月集</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">53</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">富士川町最勝寺</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">小沢治枝</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">97</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">市川三郷町下大鳥居</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">遠藤潔</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">90</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">身延町波高島</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">ＧＲＥＥＮ　ＣＬＯＳＥＴ勤務遠藤瑞穂さん<br>創明社勤務伊藤知美さんの父</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">飯島香</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">89</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">山梨市南８４２の１</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">ワタキューセイモア勤務飯島美和さんの義父<br>妻とめ子（とめこ）さん<br>妻とめ子（とめこ）</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">藤巻嶺</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">87</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">山梨市下神内川２０４</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">次男でサーフビバレッジ大野工場勤務睦（むつみ）さん<br>次男でサーフビバレッジ大野工場勤務睦（むつみ）</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">小高せつ子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">71</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">富士吉田市下吉田３の２８の７</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">夫茂（しげる）さん<br>夫茂（しげる）</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">前田久夫</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">82</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">西桂町下暮地４４４</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">アマゾンジャパン坂戸フルフィルメントセンター勤務前田徳昭さんの父</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">原啓介</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">88</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">富士河口湖町船津１５１７の８</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">同薬品勤務原順子さん<br>同薬品勤務原利也さんの父</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">鈴木敬二</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">76</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">大月市賑岡町畑倉１１４４の１</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">妻福子（ふくこ）さん<br>妻福子（ふくこ）</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">望月徹男</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">50</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">小菅村４８４７の２</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長男でアイ・ティ・エー勤務蓮（れん）さん<br>長男でアイ・ティ・エー勤務蓮（れん）</td>
 </tr>
 </tbody>
 </table>
 </div>
 
 ---
-*最終更新: 2025年08月09日 21:41:48*
+*最終更新: 2025年08月09日 21:42:00*
