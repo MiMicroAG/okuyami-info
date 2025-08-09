@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "お悔やみ情報 (2025年08月09日)"
-date: 2025-08-09 21:42:47 +0900
+date: 2025-08-09 21:50:57 +0900
 categories: [obituary, news]
 tags: [お悔やみ, 訃報, 山梨]
 author: "お悔やみ情報bot"
@@ -35,7 +35,7 @@ author: "お悔やみ情報bot"
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">相山照男</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">81</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府朝日２</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長女で甲府一高教諭中込実穂（なかごみ・みほ）さん<br>次女由佳（ゆか）さん<br>長女で甲府一高教諭中込実穂（なかごみ・みほ）<br>次女由佳（ゆか）</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長女で甲府一高教諭中込実穂（なかごみ・みほ）さん<br>次女由佳（ゆか）さん</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">早川かをる</td>
@@ -53,7 +53,7 @@ author: "お悔やみ情報bot"
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">保坂武彦</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">83</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">韮崎市若宮３の４の１４</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">妻で絵美絵画教室経営多恵子（たえこ）さん<br>妻で絵美絵画教室経営多恵子（たえこ）</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">妻で絵美絵画教室経営多恵子（たえこ）さん</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">山田八千代</td>
@@ -126,4 +126,4 @@ author: "お悔やみ情報bot"
 </div>
 
 ---
-*最終更新: 2025年08月09日 21:42:12*
+*最終更新: 2025年08月09日 21:50:46*
