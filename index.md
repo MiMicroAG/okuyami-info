@@ -10,7 +10,7 @@ title: "お悔やみ情報"
 ## Posts（最新のお悔やみ情報）
 
 <div class="responsive-table" style="overflow-x: auto; max-width: 100%; margin-bottom: 20px;">
-<table class="compact-table" style="width: 100%; border-collapse: collapse; font-size: 14px; min-width: 320px;">
+<table class="compact-table" style="width: 100%; border-collapse: collapse; font-size: 16px; min-width: 320px;">
 	<thead>
 		<tr style="background-color: #f0f0f0; border-bottom: 2px solid #ddd;">
 			<th style="padding: 8px; text-align: left; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">日付</th>
@@ -20,8 +20,8 @@ title: "お悔やみ情報"
 	<tbody>
 	{%- assign posts_sorted = site.posts -%}
 	{%- for post in posts_sorted -%}
-		<tr style="border-bottom: 1px solid #eee;">
-			<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; white-space: nowrap;">{{ post.date | date: "%Y年%m月%d日" }}</td>
+			<tr style="border-bottom: 1px solid #eee;">
+				<td style="padding: 8px; border: 1px solid #ddd; white-space: nowrap;">{{ post.date | date: "%Y年%m月%d日" }}</td>
 			<td style="padding: 8px; border: 1px solid #ddd;">
 				<a href="{{ post.url | relative_url }}">{{ post.title }}</a>
 			</td>
