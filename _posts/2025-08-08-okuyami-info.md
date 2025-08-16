@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "お悔やみ情報 (2025年08月08日)"
-date: 2025-08-08 23:03:06 +0900
+date: 2025-08-08 00:00:00 +0900
 categories: [obituary, news]
 tags: [お悔やみ, 訃報, 山梨]
 author: "お悔やみ情報bot"
@@ -95,7 +95,7 @@ author: "お悔やみ情報bot"
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">遠藤潔</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">90</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">身延町波高島</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">ＧＲＥＥＮ　ＣＬＯＳＥＴ勤務遠藤瑞穂さん<br>創明社勤務伊藤知美さんの父</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">ＧＲＥＥＮ ＣＬＯＳＥＴ勤務遠藤瑞穂さん<br>創明社勤務伊藤知美さんの父</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">飯島香</td>
@@ -144,4 +144,4 @@ author: "お悔やみ情報bot"
 </div>
 
 ---
-*最終更新: 2025年08月09日 23:11:47*
+*最終更新: 2025年08月16日 11:09:32*
