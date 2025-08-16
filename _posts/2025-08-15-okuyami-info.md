@@ -32,10 +32,34 @@ author: "お悔やみ情報bot"
 </thead>
 <tbody>
 <tr style="border-bottom: 1px solid #eee;">
-<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">■山上真弓</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">山上真弓</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">94</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">善光寺町３１４１の１８</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長男でかえで総合保険勤務真史（まさし）さん<br>次男で飯田鉄工勤務洋史（ひろし）さん<br>曽子政子さん（そし・まさこ）　住吉１の４の２１<br>長女河西まつみ（かさい・まつみ）さん<br>中川富子さん（なかがわ・とみこ）　元ナポリ製菓勤務<br>夫で元中込建設工業勤務穆（あつし）さん<br>坂本文夫さん（さかもと・ふみお）　岩窪町５０４<br>広瀬綾子さん（ひろせ・あやこ）　千塚２</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市善光寺町３１４１の１８</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長男でかえで総合保険勤務真史（まさし）さん<br>次男で飯田鉄工勤務洋史（ひろし）さん</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">曽子政子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">84</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市住吉１の４の２１</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長女河西まつみ（かさい・まつみ）さん</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">中川富子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">90</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市西下条町２９２の６</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">夫で元中込建設工業勤務穆（あつし）さん</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">坂本文夫</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">94</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市岩窪町５０４</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">広瀬綾子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">55</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市千塚２</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">山本詔八</td>
@@ -85,9 +109,15 @@ author: "お悔やみ情報bot"
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">都留市小野４３２の２６</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">同社勤務宮崎京子さんの夫<br>日本ビソー仮設ゴンドラ事業本部技術統括部長宮崎喜久さんの父</td>
 </tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">高部兼太朗</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">30</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">東京都三鷹市新川４の１７の１０...</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">父で県立ふじざくら支援学校勤務智（さとし）さん</td>
+</tr>
 </tbody>
 </table>
 </div>
 
 ---
-*最終更新: 2025年08月16日 10:43:47*
+*最終更新: 2025年08月16日 10:54:48*
