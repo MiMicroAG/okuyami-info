@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "お悔やみ情報 (2025年08月09日)"
-date: 2025-08-09 23:43:31 +0900
+date: 2025-08-09 00:00:00 +0900
 categories: [obituary, news]
 tags: [お悔やみ, 訃報, 山梨]
 author: "お悔やみ情報bot"
@@ -34,13 +34,13 @@ author: "お悔やみ情報bot"
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">相山照男</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">81</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府朝日２</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市朝日２</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長女で甲府一高教諭中込実穂（なかごみ・みほ）さん<br>次女由佳（ゆか）さん</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">早川かをる</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">79</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府大里町</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市大里町</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
@@ -126,4 +126,4 @@ author: "お悔やみ情報bot"
 </div>
 
 ---
-*最終更新: 2025年08月09日 23:02:57*
+*最終更新: 2025年08月16日 11:09:33*
