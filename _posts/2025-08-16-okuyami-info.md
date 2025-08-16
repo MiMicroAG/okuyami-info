@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "お悔やみ情報 (2025年08月16日)"
-date: 2025-08-16 00:00:00 +0900
+date: 2025-08-16 14:17:12 +0900
 categories: [obituary, news]
 tags: [お悔やみ, 訃報, 山梨]
 author: "お悔やみ情報bot"
@@ -40,31 +40,31 @@ author: "お悔やみ情報bot"
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">中嶌はつ子</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">96</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">池田１</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市池田１</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">水沢勇三</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">85</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">太田町３０の１５</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市太田町３０の１５</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長男孝昭（たかあき）さん<br>次男克彦（かつひこ）さん<br>妻かづ代（かづよ）さん</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">輿石孝次</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">93</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">荒川２</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市荒川２</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">大沼弘子</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">79</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">下曽根町</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市下曽根町</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">佐久間静香</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">82</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">住吉３</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市住吉３</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">次男二郎（じろう）さん</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
@@ -192,4 +192,4 @@ author: "お悔やみ情報bot"
 </div>
 
 ---
-*最終更新: 2025年08月16日 10:30:38*
+*最終更新: 2025年08月16日 11:30:14*
