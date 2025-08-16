@@ -34,7 +34,7 @@ author: "お悔やみ情報bot"
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">宮入岩子</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">98</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府相生１</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市相生１</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
@@ -84,4 +84,4 @@ author: "お悔やみ情報bot"
 </div>
 
 ---
-*最終更新: 2025年08月14日 09:56:08*
+*最終更新: 2025年08月16日 11:09:36*
