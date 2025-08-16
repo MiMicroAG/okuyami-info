@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "お悔やみ情報 (2025年08月10日)"
-date: 2025-08-10 07:27:55 +0900
+date: 2025-08-10 00:00:00 +0900
 categories: [obituary, news]
 tags: [お悔やみ, 訃報, 山梨]
 author: "お悔やみ情報bot"
@@ -40,13 +40,13 @@ author: "お悔やみ情報bot"
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">小田切みどり</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">68</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府寿町１３の７</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市寿町１３の７</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長男でアステラス製薬勤務一樹（かずき）さん<br>次男でオーサム勤務啓（けい）さん</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">松木良子</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">86</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府朝気２</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市朝気２</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
@@ -132,4 +132,4 @@ author: "お悔やみ情報bot"
 </div>
 
 ---
-*最終更新: 2025年08月10日 07:27:54*
+*最終更新: 2025年08月16日 11:09:34*
