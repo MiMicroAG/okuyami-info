@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "お悔やみ情報 (2025年08月17日)"
-date: 2025-08-17 08:01:08 +0900
+date: 2025-08-17 08:10:59 +0900
 categories: [obituary, news]
 tags: [お悔やみ, 訃報, 山梨]
 author: "お悔やみ情報bot"
@@ -35,7 +35,7 @@ author: "お悔やみ情報bot"
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">伊藤猛</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">89</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">中央市乙黒</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長女米山由紀子（よねやま・ゆきこ）さん</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"><span title="長女米山由紀子（よねやま・ゆきこ）さん">長女米山由紀子（よねやま・ゆきこ）さん</span></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">田中てる志</td>
@@ -53,7 +53,7 @@ author: "お悔やみ情報bot"
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">天野みね子</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">95</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市緑が丘１</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">次女堀内敬子（ほりうち・けいこ）さん</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"><span title="次女堀内敬子（ほりうち・けいこ）さん">次女堀内敬子（ほりうち・けいこ）さん</span></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">芦沢直子</td>
@@ -65,13 +65,13 @@ author: "お悔やみ情報bot"
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">渡辺典代</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">96</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市横根町</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">次女三浦洋子（みうら・ようこ）さん</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"><span title="次女三浦洋子（みうら・ようこ）さん">次女三浦洋子（みうら・ようこ）さん</span></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">北村昭代</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">90</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市大里町</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長女河野千代美（こうの・ちよみ）さん</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"><span title="長女河野千代美（こうの・ちよみ）さん">長女河野千代美（こうの・ちよみ）さん</span></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">深田睦子</td>
@@ -89,7 +89,7 @@ author: "お悔やみ情報bot"
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">横森辰男</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">85</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">韮崎市水神１の７の１６</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">ＥＪサービス山梨管理グループ勤務横森みさきさんの義父</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"><span title="ＥＪサービス山梨管理グループ勤務横森みさきさんの義父">ＥＪサービス山梨管理グループ勤務横森みさきさんの義父</span></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">志村みつ子</td>
@@ -113,7 +113,7 @@ author: "お悔やみ情報bot"
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">県かほる</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">96</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲斐市名取</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">次女の夫明夫（あきお）さん</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"><span title="次女の夫明夫（あきお）さん">次女の夫明夫（あきお）さん</span></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">武田澄子</td>
@@ -131,13 +131,13 @@ author: "お悔やみ情報bot"
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">三森二三子</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">90</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">山梨市下栗原１０８２</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">三男でセルフカンパニー顧問忠雄（ただお）さん<br>孫で日川鈑金塗装工業所代表智希（ともき）さん</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"><span title="三男でセルフカンパニー顧問忠雄（ただお）さん、孫で日川鈑金塗装工業所代表智希（ともき）さん">三男でセルフカンパニー顧問忠雄（ただお）さん<br>孫で日川鈑金塗装工業所代表智希（ともき）さん</span></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">宮原孝男</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">86</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">山梨市牧丘町北原１９４７</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">甲府税務署勤務本多佐知子さんの父</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"><span title="甲府税務署勤務本多佐知子さんの父">甲府税務署勤務本多佐知子さんの父</span></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">柳沢幹</td>
@@ -161,19 +161,19 @@ author: "お悔やみ情報bot"
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">渡辺美保子</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">88</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">笛吹市石和町今井１７９の１</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">県税務課勤務渡辺健二さんの母</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"><span title="県税務課勤務渡辺健二さんの母">県税務課勤務渡辺健二さんの母</span></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">前嶋昭江</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">91</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">笛吹市一宮町石</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">ガスト山梨万力店勤務五味由美さんの母<br>農業前嶋かおりさんの義母</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"><span title="ガスト山梨万力店勤務五味由美さんの母、農業前嶋かおりさんの義母">ガスト山梨万力店勤務五味由美さんの母<br>農業前嶋かおりさんの義母</span></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">斉藤勤</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">69</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲州市塩山上於曽１３００の２</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">京王プラザホテル勤務斉藤健さんの父<br>妻美恵子（みえこ）さん</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"><span title="京王プラザホテル勤務斉藤健さんの父、妻美恵子（みえこ）さん">京王プラザホテル勤務斉藤健さんの父<br>妻美恵子（みえこ）さん</span></td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">和光司</td>
@@ -210,4 +210,4 @@ author: "お悔やみ情報bot"
 </div>
 
 ---
-*最終更新: 2025年08月17日 08:01:08*
+*最終更新: 2025年08月17日 08:10:59*
