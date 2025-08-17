@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "お悔やみ情報 (2025年08月17日)"
-date: 2025-08-17 08:59:31 +0900
+date: 2025-08-17 09:09:18 +0900
 categories: [obituary, news]
 tags: [お悔やみ, 訃報, 山梨]
 author: "お悔やみ情報bot"
@@ -35,7 +35,7 @@ author: "お悔やみ情報bot"
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">北村昭代</td>
 <td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">90</td>
 <td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;">甲府市大里町</td>
-<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長女の夫でNECプラットフォームズ甲府工場長河野善謹（こうの・よしのり）さん<br>長女河野千代美（こうの・ちよみ）さん</td>
+<td style="color: red; padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長女の夫でNECプラットフォームズ甲府工場長河野善謹（こうの・よしのり）さん<br>長女河野千代美（こうの・ちよみ）さん</td>
 </tr>
 <tr style="border-bottom: 1px solid #eee;">
 <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">伊藤猛</td>
@@ -210,4 +210,4 @@ author: "お悔やみ情報bot"
 </div>
 
 ---
-*最終更新: 2025年08月17日 08:59:31*
+*最終更新: 2025年08月17日 09:09:18*
