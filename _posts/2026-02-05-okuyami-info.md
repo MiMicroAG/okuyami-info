@@ -1,0 +1,177 @@
+---
+layout: post
+title: "お悔やみ情報 (2026年02月05日)"
+date: 2026-02-05 07:27:50 +0900
+categories: [obituary, news]
+tags: [お悔やみ, 訃報, 山梨]
+author: "お悔やみ情報bot"
+---
+
+<style>
+@media (max-width: 768px) {
+  .compact-table { font-size: 12px; }
+  .compact-table th, .compact-table td { padding: 4px !important; }
+  .responsive-table { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  table { min-width: auto !important; }
+}
+</style>
+
+# お悔やみ情報 (2026年02月05日)
+
+## 全体一覧（簡易版）
+
+<div class="responsive-table" style="overflow-x: auto; max-width: 100%; margin-bottom: 20px;">
+<table class="compact-table" style="width: 100%; border-collapse: collapse; font-size: 14px; min-width: 300px;">
+<thead>
+<tr style="background-color: #f0f0f0; border-bottom: 2px solid #ddd;">
+<th style="padding: 8px; text-align: left; border: 1px solid #ddd; font-weight: bold;">氏名</th>
+<th style="padding: 8px; text-align: left; border: 1px solid #ddd; font-weight: bold;">年齢</th>
+<th style="padding: 8px; text-align: left; border: 1px solid #ddd; font-weight: bold;">住所</th>
+<th style="padding: 8px; text-align: left; border: 1px solid #ddd; font-weight: bold;">関係者</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">中沢とよ美</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">65</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%A4%AE%E5%B8%82%E6%9C%A8%E5%8E%9F" target="_blank" rel="noopener">中央市木原</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長男春樹（はるき）さん<br>長女小宮山遥（こみやま・はるか）さん</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">小林森枝</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">98</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E5%BA%9C%E5%B8%82%E5%8D%83%E5%A1%9A%EF%BC%93" target="_blank" rel="noopener">甲府市千塚３</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長男でオギノ勤務一夫（かずお）さん</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">水野寛</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">92</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E5%BA%9C%E5%B8%82%E5%96%84%E5%85%89%E5%AF%BA%EF%BC%91" target="_blank" rel="noopener">甲府市善光寺１</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長男で龍王産業常務取締役恵嗣（けいじ）さん<br>妻幸子（ゆきこ）さん<br>カワイ音楽教室勤務水野共恵さんの父</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">川口幹夫</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">79</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E5%BA%9C%E5%B8%82%E5%BE%8C%E5%B1%8B%E7%94%BA%EF%BC%92%EF%BC%98%EF%BC%97%E3%81%AE%EF%BC%93" target="_blank" rel="noopener">甲府市後屋町２８７の３</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">妻いく子（いくこ）さん</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">志田貴美子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">91</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E5%BA%9C%E5%B8%82%E6%B1%A0%E7%94%B0%EF%BC%93" target="_blank" rel="noopener">甲府市池田３</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">杉田久子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">85</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E5%BA%9C%E5%B8%82%E4%B8%8B%E7%9F%B3%E7%94%B0%EF%BC%92" target="_blank" rel="noopener">甲府市下石田２</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">石川泰子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">83</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E5%BA%9C%E5%B8%82%E5%8C%97%E5%8F%A3%EF%BC%93" target="_blank" rel="noopener">甲府市北口３</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長男浩之（ひろゆき）さん</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">清水逸子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">93</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%9D%9C%E5%B8%82%E5%B0%8F%E6%B7%B5%E6%B2%A2%E7%94%BA" target="_blank" rel="noopener">北杜市小淵沢町</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長男で赤井輸送勤務正司（まさし）さん<br>元小淵沢郵便局勤務清水邦彦さんの妻</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">吉沢一樹</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">52</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9%E5%B8%82%E9%A3%AF%E9%87%8E" target="_blank" rel="noopener">南アルプス市飯野</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">妻文子（あやこ）さん<br>母松木智恵子（まつき・ちえこ）さん</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">塩谷次郎</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">82</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9%E5%B8%82%E7%99%BE%E3%80%85" target="_blank" rel="noopener">南アルプス市百々</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">妻つぐ子（つぐこ）さん<br>長男で国伸運輸勤務勇（いさむ）さん</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">小野峰子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">91</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9%E5%B8%82%E9%A3%AF%E9%87%8E" target="_blank" rel="noopener">南アルプス市飯野</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">次男哲治（てつじ）さん</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">斉藤真由美</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">74</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9%E5%B8%82%E8%97%A4%E7%94%B0%EF%BC%92%EF%BC%95%EF%BC%92%EF%BC%90%E3%81%AE%EF%BC%92%EF%BC%92" target="_blank" rel="noopener">南アルプス市藤田２５２０の２２</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">河西幸男</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">87</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9%E5%B8%82%E6%9D%B1%E5%8D%97%E6%B9%96" target="_blank" rel="noopener">南アルプス市東南湖</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">高野誠</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">82</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E5%B8%82%E5%B7%9D%E4%B8%89%E9%83%B7%E7%94%BA%E5%B8%82%E5%B7%9D%E5%A4%A7%E9%96%80" target="_blank" rel="noopener">市川三郷町市川大門</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長男でにじぐも代表一幸（かずゆき）さん<br>妻由子（よしこ）さん<br>メディホス訪問看護中北勤務網野由貴さんの父</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">天野梅子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">80</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E8%BA%AB%E5%BB%B6%E7%94%BA%E5%88%87%E7%9F%B3" target="_blank" rel="noopener">身延町切石</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">夫で元切石郵便局勤務勝彦（かつひこ）さん<br>長男でリバーエレテック勤務高志（たかし）さん<br>次男でキヤノンファインテックニスカ勤務洋志（ひろし）さん<br>山梨大勤務稲崎友紀子さんの母<br>環境計画設計代表稲崎昇一さんの義母</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">一宮嘉孝</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">88</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E8%BA%AB%E5%BB%B6%E7%94%BA%E8%BA%AB%E5%BB%B6%EF%BC%93%EF%BC%98%EF%BC%92%EF%BC%92" target="_blank" rel="noopener">身延町身延３８２２</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">妻英子（えいこ）さん<br>長男で日川高教諭健一（けんいち）さん<br>さとう耳鼻咽喉科院長佐藤千穂さんの父</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">太田かづ子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">97</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E9%83%A8%E7%94%BA%E5%8D%81%E5%B3%B6%EF%BC%91%EF%BC%99%EF%BC%95%E3%81%AE%EF%BC%93" target="_blank" rel="noopener">南部町十島１９５の３</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長女の夫で元リバー富士カントリークラブ勤務三治（みつはる）さん<br>元シマ美容院店主太田美津子さんの母</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">矢崎美智子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">84</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E6%A2%A8%E5%B8%82%E4%B8%8B%E7%A5%9E%E5%86%85%E5%B7%9D%EF%BC%95%EF%BC%97%EF%BC%90%E3%81%AE%EF%BC%94" target="_blank" rel="noopener">山梨市下神内川５７０の４</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長男で保険代理店矢崎哲也所属代理店早野組店主酒井哲也（さかい・てつや）さん</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">永嶋和弥</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">93</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E7%AC%9B%E5%90%B9%E5%B8%82%E5%BE%A1%E5%9D%82%E7%94%BA%E4%B8%8A%E9%BB%92%E9%A7%92%EF%BC%93%EF%BC%95%EF%BC%93%EF%BC%91" target="_blank" rel="noopener">笛吹市御坂町上黒駒３５３１</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長男雅紀（まさき）さん<br>農業永嶋敦史さん<br>横河計測勤務永嶋裕和さんの父</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">手塚兼子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">105</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E5%B7%9E%E5%B8%82%E5%A1%A9%E5%B1%B1%E4%B8%89%E6%97%A5%E5%B8%82%E5%A0%B4%EF%BC%92%EF%BC%96%EF%BC%96%EF%BC%91%E3%81%AE%EF%BC%96" target="_blank" rel="noopener">甲州市塩山三日市場２６６１の６</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長男寿夫（としお）さん</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">外川亀雄</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">96</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%A3%AB%E6%B2%B3%E5%8F%A3%E6%B9%96%E7%94%BA%E8%88%B9%E6%B4%A5%EF%BC%99%EF%BC%94%EF%BC%99" target="_blank" rel="noopener">富士河口湖町船津９４９</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">長男で富士情報勤務清久（きよひさ）さん<br>渡辺木工取締役会長渡辺英之さんの義父</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">西村よし子</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">76</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E9%83%BD%E7%95%99%E5%B8%82%E7%94%B0%E5%8E%9F%EF%BC%91%E3%81%AE%EF%BC%91%EF%BC%94%E3%81%AE%EF%BC%99" target="_blank" rel="noopener">都留市田原１の１４の９</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;">夫冨久二（ふくじ）さん<br>長男で奈良製作所勤務剛（つよし）さん</td>
+</tr>
+<tr style="border-bottom: 1px solid #eee;">
+<td style="padding: 8px; border: 1px solid #ddd; font-weight: bold; white-space: nowrap;">志村征男</td>
+<td style="padding: 8px; border: 1px solid #ddd; text-align: center; font-size: 12px;">81</td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px;"><a href="https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%9C%88%E5%B8%82%E9%A7%92%E6%A9%8B%EF%BC%92" target="_blank" rel="noopener">大月市駒橋２</a></td>
+<td style="padding: 8px; border: 1px solid #ddd; font-size: 12px; line-height: 1.3; white-space: normal;"></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+---
+*最終更新: 2026年02月05日 07:27:50*
